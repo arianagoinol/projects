@@ -108,7 +108,7 @@
             </tr>
         </table>
         <p><a href="#Кофтинки" style="color:black;font-size:20px;">Які кофтинки у нас є?</a></p>
-        <p><a href="#Штани" style="color:black;font-size:20px;">Підберіть собі пару джинсів!)</a></p>
+        <p><a href="#Штани" style="color:black;font-size:20px;">Підберіть собі пару штанів!)</a></p>
         <footer>
            <p style="text-align:center;background-color:lightgreen;color:white"> <img src="https://e7.pngegg.com/pngimages/129/394/png-clipart-green-phone-icon-iphone-3g-telephone-call-computer-icons-phone-icon-miscellaneous-text-thumbnail.png" width="20px" height="20px"/> +380687020299-номер магазину
             <br/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6AzxmqTaT-_Vo2YzRLb9qZTAFY8T4pL6pybrOx04t3Z6xfHrfxx3mHSwYyLlyMWLXg68&usqp=CAU" height="20px" width="20px"/> +380966780041-номер фабрики</p>
